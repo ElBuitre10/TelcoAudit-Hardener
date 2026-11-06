@@ -96,8 +96,6 @@ Basado en los principios de auditoría empírica y resiliencia de infraestructur
         
     input("\nPresiona Enter para volver al menú...")
 
-def generate_markdown_report(target, results):
-    pass
 def ont_bypass_knowledge():
     clear_screen()
     banner()
